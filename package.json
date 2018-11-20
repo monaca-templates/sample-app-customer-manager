@@ -1,6 +1,6 @@
 {
   "name": "sample-customer-management",
-  "version": "3.0.0+20180918.1",
+  "version": "1.0.0+20181120.1",
   "description": "sample-customer-management",
   "dependencies": {
     "@mapbox/mapbox-gl-language": "^0.10.0",
