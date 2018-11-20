@@ -1,0 +1,43 @@
+{
+  "common": {
+    "add": "追加",
+    "edit": "編集",
+    "delete": "削除",
+    "complete": "完了",
+    "cancel": "破棄"
+  },
+  "customer": {
+    "company": "会社名",
+    "staff": "担当者名",
+    "TEL": "担当者電話番号",
+    "email": "担当者Eメール",
+    "address": "所在地"
+  },
+  "create": {
+    "title": "顧客情報追加"
+  },
+  "detail": {
+    "title": "顧客情報詳細"
+  },
+  "list": {
+    "title": "顧客リスト",
+    "staff": "担当者: {staff}様"
+  },
+  "update": {
+    "title": "顧客情報編集"
+  },
+  "confirm": {
+    "accept": "はい",
+    "reject": "いいえ",
+    "delete_title": "顧客情報の削除",
+    "delete_message": "表示されている顧客情報を削除します。よろしいですか？",
+    "cancel_title": "編集の破棄",
+    "cancel_message": "現在の内容を破棄して編集を終了します。よろしいですか？"
+  },
+  "notify": {
+    "added_customer": "顧客情報が追加されました",
+    "edited_customer": "顧客情報が変更されました",
+    "deleted_customer": "顧客情報が削除されました",
+    "require_error": "{require}は必須項目です"
+  }
+}
