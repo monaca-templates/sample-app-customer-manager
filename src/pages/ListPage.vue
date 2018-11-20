@@ -37,10 +37,10 @@
 </template>
 
 <script>
-  import Header from '../components/header/Header'
-  import HeaderMenu from '../components/list/HeaderMenu'
-  import List from '../components/list/List'
-  import SearchBox from '../components/search/SearchBox'
+  import Header from '../components/header/header'
+  import HeaderMenu from '../components/list/headerMenu'
+  import List from '../components/list/list'
+  import SearchBox from '../components/search/searchBox'
 
   export default {
     name: 'ListPage',

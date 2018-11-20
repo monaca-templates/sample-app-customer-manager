@@ -1,0 +1,24 @@
+
+.notification-dialog[data-v-26804d57]{border-radius:20px;height:40px;margin-top:56px;opacity:.9;position:fixed;width:100%;z-index:100
+}
+
+
+.header-icon{color:#fff!important
+}
+
+.border-wrapper[data-v-48eb0642]{border-bottom:1px solid #ddd;height:100%;margin:0 5%;width:90%
+}
+
+.search-box[data-v-125a4528]{margin:-12px 5%!important;width:90%
+}
+.close-icon[data-v-125a4528]{margin:12px -16px 0 16px
+}
+
+.list-container{padding-bottom:36px!important;padding-top:56px!important
+}
+
+#mapbox[data-v-a46b4f22]{border:1px solid grey;height:240px;margin:0 8px;width:calc(100% - 16px)
+}
+
+.detail-container{padding:82px 26px 0!important
+}

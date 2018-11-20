@@ -21,9 +21,9 @@
 </template>
 
 <script>
-  import Edit from '../components/edit/Edit'
-  import Header from '../components/header/Header'
-  import EditButtons from '../components/edit/EditButtons'
+  import Edit from '../components/edit/edit'
+  import Header from '../components/header/header'
+  import EditButtons from '../components/edit/editButtons'
   import { EventBus } from '../eventBus.js'
 
   export default {

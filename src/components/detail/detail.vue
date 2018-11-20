@@ -33,7 +33,7 @@
 
 <script>
   import DetailItem from './detailItem'
-  import Map from '../map/Map'
+  import Map from '../map/map'
 
   export default {
     name: 'Detail',

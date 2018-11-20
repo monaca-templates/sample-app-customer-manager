@@ -29,7 +29,7 @@
 </template>
 
 <script>
-  import ConfirmDialog from '../common/ConfirmDialog'
+  import ConfirmDialog from '../common/confirmDialog'
 
   export default {
     name: 'HeaderMenu',

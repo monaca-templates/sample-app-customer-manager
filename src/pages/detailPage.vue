@@ -16,9 +16,9 @@
 </template>
 
 <script>
-  import Detail from '../components/detail/Detail'
-  import Header from '../components/header/Header'
-  import HeaderMenu from '../components/detail/HeaderMenu'
+  import Detail from '../components/detail/detail'
+  import Header from '../components/header/header'
+  import HeaderMenu from '../components/detail/headerMenu'
   import { EventBus } from '../eventBus.js'
 
   export default {
